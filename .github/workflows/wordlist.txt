@@ -8,3 +8,4 @@ helsinki
 inhibiti
 lbl
 methoxy
+smpc
